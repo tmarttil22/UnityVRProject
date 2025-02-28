@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95a1084c5a0ce1f4ab75be1182771649
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26229
+  packageName: English Ship's Cannon
+  packageVersion: 1
+  assetPath: Assets/cannon/Materials/cannon_base.mat
+  uploadId: 43686

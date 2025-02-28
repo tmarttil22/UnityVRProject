@@ -5,15 +5,16 @@ TagManager:
   serializedVersion: 3
   tags:
   - grabbable
+  - TagStartGame
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Controller
   - Water
   - UI
-  - 
-  - 
+  - Player
+  - Interactive
   - 
   - 
   - 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0511ccbb769ff7941a16527e05aed562
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26229
+  packageName: English Ship's Cannon
+  packageVersion: 1
+  assetPath: Assets/cannon/prefub/cannon.prefab
+  uploadId: 43686

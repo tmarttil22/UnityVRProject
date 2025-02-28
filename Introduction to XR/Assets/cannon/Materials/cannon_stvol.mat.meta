@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cff3edcdde7ba2647aca6a2bb4beaca2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26229
+  packageName: English Ship's Cannon
+  packageVersion: 1
+  assetPath: Assets/cannon/Materials/cannon_stvol.mat
+  uploadId: 43686
